@@ -12,7 +12,7 @@ export default function LibreriaVirtual() {
              <Image src="/logo-upta.png" alt="Logo UPTA" width={160} height={160} priority />
           </div>
           <h1 className="text-4xl font-black text-primary uppercase tracking-tighter">
-            Librería Virtual - Postgrado
+            Librería Virtual - Postgrado Especializacion, Maestrías y Doctorados
           </h1>
           <p className="text-xl text-white italic font-light mt-2">
             Repositorio de Propiedad Intelectual y Literatura Científica
